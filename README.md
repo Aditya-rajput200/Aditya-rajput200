@@ -22,7 +22,7 @@ I'm excited to collaborate on:
 - **MERN Stack Applications**: Developing full-stack applications with a focus on performance and scalability.
 
 ## 🌐 Find Me Online:
-- **LinkedIn**: [Aditya Rajput](https://www.linkedin.com/in/aditya-rajput)
+- **LinkedIn**: [Aditya Rajput](https://www.linkedin.com/in/aditya-rajput-32300a264)
 - **GitHub**: [Aditya-rajput200](https://github.com/Aditya-rajput200)
 - **Twitter**: [@your-handle](https://twitter.com/@Adityasingh5260)
 
