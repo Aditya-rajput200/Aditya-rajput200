@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aditya Rajput
+# 👋 Hi, I’m Aditya Singh Rajput
 
 ## 👀 About Me:
 I'm a passionate Full Stack Developer with a keen interest in Blockchain Technology. I thrive on solving complex problems and am always eager to learn new technologies. With a strong foundation in the MERN stack and a growing expertise in Web3, I'm on a continuous journey of building innovative and impactful solutions.
