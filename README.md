@@ -28,8 +28,7 @@ I'm excited to collaborate on:
 
 
 ## 📫 How to Reach Me:
-Feel free to connect with me via [Email](mailto:your-email@example.com) or reach out on [LinkedIn](https://www.linkedin.com/in/aditya-rajput).
-
+Feel free to connect with me via [Email](adityaraj5260@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/aditya-rajput-32300a264)
 ## 😄 Pronouns:
 He/Him
 
