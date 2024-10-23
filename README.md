@@ -7,6 +7,7 @@ I'm a passionate Full Stack Developer with a keen interest in Blockchain Technol
 - **Advanced Node.js, React, and Next.js**: Deepening my skills to create scalable and efficient applications.
 - **Blockchain Development**: Exploring Ethereum and Solana to build decentralized applications (dApps).
 - **Web3 Projects**: Experimenting with smart contracts and decentralized finance (DeFi) protocols.
+- [![An image of @adityarajput200's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityarajput200)](https://holopin.io/@adityarajput200)
 
 ## 💼 Professional Skills:
 - **Frontend**: JavaScript, React, Next.js, Tailwind CSS
